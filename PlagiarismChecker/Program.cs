@@ -34,7 +34,7 @@ public static class BillFetcher
     public static async Task Main(string[] args)
     {
 
-        string billText = await BillFetcher.GetRenderedBillText("HB0001");
+        string billText = await BillFetcher.GetRenderedBillText("HB0002");
         
         
         billText = BillFetcher.CleanBillText(billText);
