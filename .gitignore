@@ -2,3 +2,6 @@
 .idea/
 *.sln.iml
 .vs/
+PlagiarismChecker/bin/
+PlagiarismChecker/obj/
+hooks/
